@@ -12,7 +12,7 @@ body {
 }
 
 .Hcenter {
-  size: 1em;
+  height: 1em;
   display: flex;
   justify-content: center;
 }
