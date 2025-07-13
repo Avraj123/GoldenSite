@@ -15,4 +15,5 @@ body {
   height: 1em;
   display: flex;
   justify-content: center;
+  flex-wrap: wrap;
 }
