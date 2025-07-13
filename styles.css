@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Tangerine&display=swap');
+
+body {
+  background-color: gold;
+}
+
+.NrmlFont {
+    font-size: 1em;
+    font-family: "Tangerine", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.Hcenter {
+  display: flex;
+  justify-content: center;
+}
